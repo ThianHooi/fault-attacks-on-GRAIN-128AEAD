@@ -4,6 +4,7 @@ This directory consists of the results or materials that are used in the experim
 
 The experiments were done using [SageMath](https://www.sagemath.org/). 
 
+---
 ## Visual Basic Programmes ##
 * `ColorDuplicate.vb` - color duplicated values of output indices in a range of cells (in matching colors)
   
@@ -11,6 +12,7 @@ The experiments were done using [SageMath](https://www.sagemath.org/).
   * color a range of cells based on values 
   * can be used in single or move values in a cell
 
+---
 ## Excels ##
 1. `Moderate Control Results`
    * Results obtained by calculating the output differentials of single and pairs of outout indices 
