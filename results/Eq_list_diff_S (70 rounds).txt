@@ -1,0 +1,287 @@
+eq0_s9=b13
+eq0_s14=s21
+eq0_s21=s14
+eq0_s43=b96
+eq0_s61=s80
+eq0_s80=s61
+
+eq2_s11=b15
+eq2_s16=s23
+eq2_s23=s16
+eq2_s45=b98
+eq2_s63=s82
+eq2_s82=s63
+
+eq4_s13=b17
+eq4_s18=s25
+eq4_s25=s18
+eq4_s47=b100
+eq4_s65=s84
+eq4_s84=s65
+
+eq6_s15=b19
+eq6_s20=s27
+eq6_s27=s20
+eq6_s49=b102
+eq6_s67=s86
+eq6_s86=s67
+
+eq8_s17=b21
+eq8_s22=s29
+eq8_s29=s22
+eq8_s51=b104
+eq8_s69=s88
+eq8_s88=s69
+
+eq10_s19=b23
+eq10_s24=s31
+eq10_s31=s24
+eq10_s53=b106
+eq10_s71=s90
+eq10_s90=s71
+
+eq12_s21=b25
+eq12_s26=s33
+eq12_s33=s26
+eq12_s55=b108
+eq12_s73=s92
+eq12_s92=s73
+
+eq14_s23=b27
+eq14_s28=s35
+eq14_s35=s28
+eq14_s57=b110
+eq14_s75=s94
+eq14_s94=s75
+
+eq16_s25=b29
+eq16_s30=s37
+eq16_s37=s30
+eq16_s59=b112
+eq16_s77=s96
+eq16_s96=s77
+
+eq18_s27=b31
+eq18_s32=s39
+eq18_s39=s32
+eq18_s61=b114
+eq18_s79=s98
+eq18_s98=s79
+
+eq20_s29=b33
+eq20_s34=s41
+eq20_s41=s34
+eq20_s63=b116
+eq20_s81=s100
+eq20_s100=s81
+
+eq22_s31=b35
+eq22_s36=s43
+eq22_s43=s36
+eq22_s65=b118
+eq22_s83=s102
+eq22_s102=s83
+
+eq24_s33=b37
+eq24_s38=s45
+eq24_s45=s38
+eq24_s67=b120
+eq24_s85=s104
+eq24_s104=s85
+
+eq26_s35=b39
+eq26_s40=s47
+eq26_s47=s40
+eq26_s69=b122
+eq26_s87=s106
+eq26_s106=s87
+
+eq28_s37=b41
+eq28_s42=s49
+eq28_s49=s42
+eq28_s71=b124
+eq28_s89=s108
+eq28_s108=s89
+
+eq30_s39=b43
+eq30_s44=s51
+eq30_s51=s44
+eq30_s73=b126
+eq30_s91=s110
+eq30_s110=s91
+
+eq32_s41=b45
+eq32_s46=s53
+eq32_s53=s46
+eq32_s93=s112
+eq32_s112=s93
+
+eq34_s43=b47
+eq34_s48=s55
+eq34_s55=s48
+eq34_s95=s114
+eq34_s114=s95
+
+eq36_s45=b49
+eq36_s50=s57
+eq36_s57=s50
+eq36_s97=s116
+eq36_s116=s97
+
+eq38_s47=b51
+eq38_s52=s59
+eq38_s59=s52
+eq38_s99=s118
+eq38_s118=s99
+
+eq40_s49=b53
+eq40_s54=s61
+eq40_s61=s54
+eq40_s101=s120
+eq40_s120=s101
+
+eq42_s51=b55
+eq42_s56=s63
+eq42_s63=s56
+eq42_s103=s122
+eq42_s122=s103
+
+eq44_s53=b57
+eq44_s58=s65
+eq44_s65=s58
+eq44_s105=s124
+eq44_s124=s105
+
+eq46_s55=b59
+eq46_s60=s67
+eq46_s67=s60
+eq46_s107=s126
+eq46_s126=s107
+
+eq48_s0=s109
+eq48_s7=s109
+eq48_s38=s109
+eq48_s57=b61
+eq48_s62=s69
+eq48_s69=s62
+eq48_s70=s109
+eq48_s81=s109
+eq48_s109=s0 + s38 + s7 + s70 + s81 + s96
+
+eq50_s2=s111
+eq50_s9=s111
+eq50_s40=s111
+eq50_s59=b63
+eq50_s64=s71
+eq50_s71=s64
+eq50_s72=s111
+eq50_s83=s111
+eq50_s111=s2 + s40 + s72 + s83 + s9 + s98
+
+eq52_s4=s113
+eq52_s11=s113
+eq52_s42=s113
+eq52_s61=b65
+eq52_s66=s73
+eq52_s73=s66
+eq52_s74=s113
+eq52_s85=s113
+eq52_s113=s100 + s11 + s4 + s42 + s74 + s85
+
+eq54_s6=s115
+eq54_s13=s115
+eq54_s44=s115
+eq54_s63=b67
+eq54_s68=s75
+eq54_s75=s68
+eq54_s76=s115
+eq54_s87=s115
+eq54_s115=s102 + s13 + s44 + s6 + s76 + s87
+
+eq56_s8=s117
+eq56_s15=s117
+eq56_s46=s117
+eq56_s65=b69
+eq56_s70=s77
+eq56_s77=s70
+eq56_s78=s117
+eq56_s89=s117
+eq56_s117=s104 + s15 + s46 + s78 + s8 + s89
+
+eq58_s10=s119
+eq58_s17=s119
+eq58_s48=s119
+eq58_s67=b71
+eq58_s72=s79
+eq58_s79=s72
+eq58_s80=s119
+eq58_s91=s119
+eq58_s119=s10 + s106 + s17 + s48 + s80 + s91
+
+eq60_s12=s121
+eq60_s19=s121
+eq60_s50=s121
+eq60_s69=b73
+eq60_s74=s81
+eq60_s81=s74
+eq60_s82=s121
+eq60_s93=s121
+eq60_s121=s108 + s12 + s19 + s50 + s82 + s93
+
+
+eq62_s14=s123
+eq62_s21=s123
+eq62_s52=s123
+eq62_s71=b75
+eq62_s76=s83
+eq62_s83=s76
+eq62_s84=s123
+eq62_s95=s123
+eq62_s123=s110 + s14 + s21 + s52 + s84 + s95
+
+eq64_s16=s125
+eq64_s23=s125
+eq64_s54=s125
+eq64_s73=b77
+eq64_s78=s85
+eq64_s85=s78
+eq64_s86=s125
+eq64_s97=s125
+eq64_s125=s112 + s16 + s23 + s54 + s86 + s97
+
+eq66_s18=s127
+eq66_s25=s127
+eq66_s56=s127
+eq66_s75=b79
+eq66_s80=s87
+eq66_s87=s80
+eq66_s88=s127
+eq66_s99=s127
+eq66_s127=s114 + s18 + s25 + s56 + s88 + s99
+
+eq68_s8=s101 + s116 + s20 + s27 + s58 + s90
+eq68_s20=s1 + s39 + s71 + s8 + s82 + s97
+eq68_s27=s1 + s39 + s71 + s8 + s82 + s97
+eq68_s39=s101 + s116 + s20 + s27 + s58 + s90
+eq68_s58=s1 + s39 + s71 + s8 + s82 + s97
+eq68_s71=s101 + s116 + s20 + s27 + s58 + s90
+eq68_s77=b81
+eq68_s82=s101 + s116 + s20 + s27 + s58 + s89 + s90
+eq68_s89=s82
+eq68_s90=s1 + s39 + s71 + s8 + s82 + s97
+eq68_s97=s101 + s116 + s20 + s27 + s58 + s90
+eq68_s101=s1 + s39 + s71 + s8 + s82 + s97
+
+eq70_s10=s103 + s118 + s22 + s29 + s60 + s92
+eq70_s22=s10 + s3 + s41 + s73 + s84 + s99
+eq70_s29=s10 + s3 + s41 + s73 + s84 + s99
+eq70_s41=s103 + s118 + s22 + s29 + s60 + s92
+eq70_s60=s10 + s3 + s41 + s73 + s84 + s99
+eq70_s73=s103 + s118 + s22 + s29 + s60 + s92
+eq70_s79=b83
+eq70_s84=s103 + s118 + s22 + s29 + s60 + s91 + s92
+eq70_s91=s84
+eq70_s92=s10 + s3 + s41 + s73 + s84 + s99
+eq70_s99=s103 + s118 + s22 + s29 + s60 + s92
+eq70_s103=s10 + s3 + s41 + s73 + s84 + s99
+E = [eq0_s9, eq0_s14, eq0_s21, eq0_s43, eq0_s61, eq0_s80, eq2_s11, eq2_s16, eq2_s23, eq2_s45, eq2_s63, eq2_s82, eq4_s13, eq4_s18, eq4_s25, eq4_s47, eq4_s65, eq4_s84, eq6_s15, eq6_s20, eq6_s27, eq6_s49, eq6_s67, eq6_s86, eq8_s17, eq8_s22, eq8_s29, eq8_s51, eq8_s69, eq8_s88, eq10_s19, eq10_s24, eq10_s31, eq10_s53, eq10_s71, eq10_s90, eq12_s21, eq12_s26, eq12_s33, eq12_s55, eq12_s73, eq12_s92, eq14_s23, eq14_s28, eq14_s35, eq14_s57, eq14_s75, eq14_s94, eq16_s25, eq16_s30, eq16_s37, eq16_s59, eq16_s77, eq16_s96, eq18_s27, eq18_s32, eq18_s39, eq18_s61, eq18_s79, eq18_s98, eq20_s29, eq20_s34, eq20_s41, eq20_s63, eq20_s81, eq20_s100, eq22_s31, eq22_s36, eq22_s43, eq22_s65, eq22_s83, eq22_s102, eq24_s33, eq24_s38, eq24_s45, eq24_s67, eq24_s85, eq24_s104, eq26_s35, eq26_s40, eq26_s47, eq26_s69, eq26_s87, eq26_s106, eq28_s37, eq28_s42, eq28_s49, eq28_s71, eq28_s89, eq28_s108, eq30_s39, eq30_s44, eq30_s51, eq30_s73, eq30_s91, eq30_s110, eq32_s41, eq32_s46, eq32_s53, eq32_s93, eq32_s112, eq34_s43, eq34_s48, eq34_s55, eq34_s95, eq34_s114, eq36_s45, eq36_s50, eq36_s57, eq36_s97, eq36_s116, eq38_s47, eq38_s52, eq38_s59, eq38_s99, eq38_s118, eq40_s49, eq40_s54, eq40_s61, eq40_s101, eq40_s120, eq42_s51, eq42_s56, eq42_s63, eq42_s103, eq42_s122, eq44_s53, eq44_s58, eq44_s65, eq44_s105, eq44_s124, eq46_s55, eq46_s60, eq46_s67, eq46_s107, eq46_s126, eq48_s0, eq48_s7, eq48_s38, eq48_s57, eq48_s62, eq48_s69, eq48_s70, eq48_s81, eq48_s109, eq50_s2, eq50_s9, eq50_s40, eq50_s59, eq50_s64, eq50_s71, eq50_s72, eq50_s83, eq50_s111, eq52_s4, eq52_s11, eq52_s42, eq52_s61, eq52_s66, eq52_s73, eq52_s74, eq52_s85, eq52_s113, eq54_s6, eq54_s13, eq54_s44, eq54_s63, eq54_s68, eq54_s75, eq54_s76, eq54_s87, eq54_s115, eq56_s8, eq56_s15, eq56_s46, eq56_s65, eq56_s70, eq56_s77, eq56_s78, eq56_s89, eq56_s117, eq58_s10, eq58_s17, eq58_s48, eq58_s67, eq58_s72, eq58_s79, eq58_s80, eq58_s91, eq58_s119, eq60_s12, eq60_s19, eq60_s50, eq60_s69, eq60_s74, eq60_s81, eq60_s82, eq60_s93, eq60_s121, eq62_s14, eq62_s21, eq62_s52, eq62_s71, eq62_s76, eq62_s83, eq62_s84, eq62_s95, eq62_s123, eq64_s16, eq64_s23, eq64_s54, eq64_s73, eq64_s78, eq64_s85, eq64_s86, eq64_s97, eq64_s125, eq66_s18, eq66_s25, eq66_s56, eq66_s75, eq66_s80, eq66_s87, eq66_s88, eq66_s99, eq66_s127, eq68_s8, eq68_s20, eq68_s27, eq68_s39, eq68_s58, eq68_s71, eq68_s77, eq68_s82, eq68_s89, eq68_s90, eq68_s97, eq68_s101, eq70_s10, eq70_s22, eq70_s29, eq70_s41, eq70_s60, eq70_s73, eq70_s79, eq70_s84, eq70_s91, eq70_s91, eq70_s92, eq70_s99, eq70_s103]

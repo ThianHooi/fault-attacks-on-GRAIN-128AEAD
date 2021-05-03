@@ -1,0 +1,1000 @@
+Fault target 0
+-----------------------------------------------------------------------------------------
+Fault target 1
+-----------------------------------------------------------------------------------------
+Fault target 2
+-----------------------------------------------------------------------------------------
+Fault target 3
+-----------------------------------------------------------------------------------------
+Fault target 4
+-----------------------------------------------------------------------------------------
+Fault target 5
+-----------------------------------------------------------------------------------------
+Fault target 6
+-----------------------------------------------------------------------------------------
+Fault target 7
+-----------------------------------------------------------------------------------------
+Fault target 8
+-----------------------------------------------------------------------------------------
+Fault target 9
+Output Indices: 36
+Output Indices: 68
+Output Indices: 72
+Output Indices: 84
+Output Indices: 90
+-----------------------------------------------------------------------------------------
+Fault target 10
+Output Indices: 44
+Output Indices: 48
+Output Indices: 64
+Output Indices: 76
+Output Indices: 80
+Output Indices: 96
+-----------------------------------------------------------------------------------------
+Fault target 11
+Output Indices: 38
+Output Indices: 70
+Output Indices: 74
+Output Indices: 86
+Output Indices: 92
+-----------------------------------------------------------------------------------------
+Fault target 12
+Output Indices: 46
+Output Indices: 50
+Output Indices: 66
+Output Indices: 78
+Output Indices: 82
+Output Indices: 98
+-----------------------------------------------------------------------------------------
+Fault target 13
+Output Indices: 40
+Output Indices: 72
+Output Indices: 76
+Output Indices: 88
+Output Indices: 94
+-----------------------------------------------------------------------------------------
+Fault target 14
+Output Indices: 48
+Output Indices: 52
+Output Indices: 68
+Output Indices: 80
+Output Indices: 84
+Output Indices: 100
+-----------------------------------------------------------------------------------------
+Fault target 15
+Output Indices: 42
+Output Indices: 74
+Output Indices: 78
+Output Indices: 90
+Output Indices: 96
+-----------------------------------------------------------------------------------------
+Fault target 16
+Output Indices: 50
+Output Indices: 54
+Output Indices: 70
+Output Indices: 82
+Output Indices: 86
+Output Indices: 102
+-----------------------------------------------------------------------------------------
+Fault target 17
+Output Indices: 44
+Output Indices: 76
+Output Indices: 80
+Output Indices: 92
+Output Indices: 98
+-----------------------------------------------------------------------------------------
+Fault target 18
+Output Indices: 52
+Output Indices: 56
+Output Indices: 72
+Output Indices: 84
+Output Indices: 88
+Output Indices: 104
+-----------------------------------------------------------------------------------------
+Fault target 19
+Output Indices: 46
+Output Indices: 78
+Output Indices: 82
+Output Indices: 94
+Output Indices: 100
+-----------------------------------------------------------------------------------------
+Fault target 20
+Output Indices: 54
+Output Indices: 58
+Output Indices: 74
+Output Indices: 86
+Output Indices: 90
+Output Indices: 106
+-----------------------------------------------------------------------------------------
+Fault target 21
+Output Indices: 48
+Output Indices: 80
+Output Indices: 84
+Output Indices: 96
+Output Indices: 102
+-----------------------------------------------------------------------------------------
+Fault target 22
+Output Indices: 56
+Output Indices: 60
+Output Indices: 76
+Output Indices: 88
+Output Indices: 92
+Output Indices: 108
+-----------------------------------------------------------------------------------------
+Fault target 23
+Output Indices: 50
+Output Indices: 82
+Output Indices: 86
+Output Indices: 98
+Output Indices: 104
+-----------------------------------------------------------------------------------------
+Fault target 24
+Output Indices: 58
+Output Indices: 62
+Output Indices: 78
+Output Indices: 90
+Output Indices: 94
+Output Indices: 110
+-----------------------------------------------------------------------------------------
+Fault target 25
+Output Indices: 52
+Output Indices: 84
+Output Indices: 88
+Output Indices: 100
+Output Indices: 106
+-----------------------------------------------------------------------------------------
+Fault target 26
+Output Indices: 60
+Output Indices: 64
+Output Indices: 80
+Output Indices: 92
+Output Indices: 96
+Output Indices: 112
+-----------------------------------------------------------------------------------------
+Fault target 27
+Output Indices: 54
+Output Indices: 86
+Output Indices: 90
+Output Indices: 102
+Output Indices: 108
+-----------------------------------------------------------------------------------------
+Fault target 28
+Output Indices: 62
+Output Indices: 66
+Output Indices: 82
+Output Indices: 94
+Output Indices: 98
+Output Indices: 114
+-----------------------------------------------------------------------------------------
+Fault target 29
+Output Indices: 56
+Output Indices: 88
+Output Indices: 92
+Output Indices: 104
+Output Indices: 110
+-----------------------------------------------------------------------------------------
+Fault target 30
+Output Indices: 64
+Output Indices: 68
+Output Indices: 84
+Output Indices: 96
+Output Indices: 100
+Output Indices: 116
+-----------------------------------------------------------------------------------------
+Fault target 31
+Output Indices: 58
+Output Indices: 90
+Output Indices: 94
+Output Indices: 106
+Output Indices: 112
+-----------------------------------------------------------------------------------------
+Fault target 32
+Output Indices: 66
+Output Indices: 70
+Output Indices: 86
+Output Indices: 98
+Output Indices: 102
+Output Indices: 118
+-----------------------------------------------------------------------------------------
+Fault target 33
+Output Indices: 60
+Output Indices: 92
+Output Indices: 96
+Output Indices: 108
+Output Indices: 114
+-----------------------------------------------------------------------------------------
+Fault target 34
+Output Indices: 68
+Output Indices: 72
+Output Indices: 88
+Output Indices: 100
+Output Indices: 104
+Output Indices: 120
+-----------------------------------------------------------------------------------------
+Fault target 35
+Output Indices: 62
+Output Indices: 94
+Output Indices: 98
+Output Indices: 110
+Output Indices: 116
+-----------------------------------------------------------------------------------------
+Fault target 36
+Output Indices: 70
+Output Indices: 74
+Output Indices: 90
+Output Indices: 102
+Output Indices: 106
+Output Indices: 122
+-----------------------------------------------------------------------------------------
+Fault target 37
+Output Indices: 64
+Output Indices: 96
+Output Indices: 100
+Output Indices: 112
+Output Indices: 118
+-----------------------------------------------------------------------------------------
+Fault target 38
+Output Indices: 34
+Output Indices: 66
+Output Indices: 72
+Output Indices: 76
+Output Indices: 104
+Output Indices: 108
+-----------------------------------------------------------------------------------------
+Fault target 39
+Output Indices: 82
+Output Indices: 102
+Output Indices: 114
+Output Indices: 130
+-----------------------------------------------------------------------------------------
+Fault target 40
+Output Indices: 36
+Output Indices: 68
+Output Indices: 74
+Output Indices: 78
+Output Indices: 106
+Output Indices: 110
+-----------------------------------------------------------------------------------------
+Fault target 41
+Output Indices: 84
+Output Indices: 104
+Output Indices: 116
+Output Indices: 132
+-----------------------------------------------------------------------------------------
+Fault target 42
+Output Indices: 38
+Output Indices: 70
+Output Indices: 76
+Output Indices: 80
+Output Indices: 108
+Output Indices: 112
+-----------------------------------------------------------------------------------------
+Fault target 43
+Output Indices: 86
+Output Indices: 106
+Output Indices: 118
+Output Indices: 134
+-----------------------------------------------------------------------------------------
+Fault target 44
+Output Indices: 40
+Output Indices: 72
+Output Indices: 78
+Output Indices: 82
+Output Indices: 110
+Output Indices: 114
+-----------------------------------------------------------------------------------------
+Fault target 45
+Output Indices: 88
+Output Indices: 108
+Output Indices: 120
+Output Indices: 136
+-----------------------------------------------------------------------------------------
+Fault target 46
+Output Indices: 42
+Output Indices: 74
+Output Indices: 80
+Output Indices: 84
+Output Indices: 112
+Output Indices: 116
+-----------------------------------------------------------------------------------------
+Fault target 47
+Output Indices: 90
+Output Indices: 110
+Output Indices: 122
+Output Indices: 138
+-----------------------------------------------------------------------------------------
+Fault target 48
+Output Indices: 44
+Output Indices: 76
+Output Indices: 82
+Output Indices: 86
+Output Indices: 114
+Output Indices: 118
+-----------------------------------------------------------------------------------------
+Fault target 49
+Output Indices: 92
+Output Indices: 112
+Output Indices: 124
+Output Indices: 140
+-----------------------------------------------------------------------------------------
+Fault target 50
+Output Indices: 46
+Output Indices: 78
+Output Indices: 84
+Output Indices: 88
+Output Indices: 116
+Output Indices: 120
+-----------------------------------------------------------------------------------------
+Fault target 51
+Output Indices: 94
+Output Indices: 114
+Output Indices: 126
+Output Indices: 142
+-----------------------------------------------------------------------------------------
+Fault target 52
+Output Indices: 48
+Output Indices: 80
+Output Indices: 86
+Output Indices: 90
+Output Indices: 118
+Output Indices: 122
+-----------------------------------------------------------------------------------------
+Fault target 53
+Output Indices: 96
+Output Indices: 116
+Output Indices: 128
+Output Indices: 144
+-----------------------------------------------------------------------------------------
+Fault target 54
+Output Indices: 50
+Output Indices: 82
+Output Indices: 88
+Output Indices: 92
+Output Indices: 120
+Output Indices: 124
+-----------------------------------------------------------------------------------------
+Fault target 55
+Output Indices: 98
+Output Indices: 118
+Output Indices: 130
+Output Indices: 146
+-----------------------------------------------------------------------------------------
+Fault target 56
+Output Indices: 52
+Output Indices: 84
+Output Indices: 90
+Output Indices: 94
+Output Indices: 122
+Output Indices: 126
+-----------------------------------------------------------------------------------------
+Fault target 57
+Output Indices: 100
+Output Indices: 120
+Output Indices: 132
+Output Indices: 148
+-----------------------------------------------------------------------------------------
+Fault target 58
+Output Indices: 54
+Output Indices: 86
+Output Indices: 92
+Output Indices: 96
+Output Indices: 124
+Output Indices: 128
+-----------------------------------------------------------------------------------------
+Fault target 59
+Output Indices: 102
+Output Indices: 122
+Output Indices: 134
+Output Indices: 150
+-----------------------------------------------------------------------------------------
+Fault target 60
+Output Indices: 56
+Output Indices: 88
+Output Indices: 94
+Output Indices: 98
+Output Indices: 126
+Output Indices: 130
+-----------------------------------------------------------------------------------------
+Fault target 61
+Output Indices: 104
+Output Indices: 124
+Output Indices: 136
+Output Indices: 152
+-----------------------------------------------------------------------------------------
+Fault target 62
+Output Indices: 58
+Output Indices: 90
+Output Indices: 96
+Output Indices: 100
+Output Indices: 128
+Output Indices: 132
+-----------------------------------------------------------------------------------------
+Fault target 63
+Output Indices: 106
+Output Indices: 126
+Output Indices: 138
+Output Indices: 154
+-----------------------------------------------------------------------------------------
+Fault target 64
+Output Indices: 60
+Output Indices: 92
+Output Indices: 98
+Output Indices: 102
+Output Indices: 130
+Output Indices: 134
+-----------------------------------------------------------------------------------------
+Fault target 65
+Output Indices: 108
+Output Indices: 128
+Output Indices: 140
+Output Indices: 156
+-----------------------------------------------------------------------------------------
+Fault target 66
+Output Indices: 62
+Output Indices: 94
+Output Indices: 100
+Output Indices: 104
+Output Indices: 132
+Output Indices: 136
+-----------------------------------------------------------------------------------------
+Fault target 67
+Output Indices: 110
+Output Indices: 130
+Output Indices: 142
+Output Indices: 158
+-----------------------------------------------------------------------------------------
+Fault target 68
+Output Indices: 64
+Output Indices: 96
+Output Indices: 102
+Output Indices: 106
+Output Indices: 134
+Output Indices: 138
+-----------------------------------------------------------------------------------------
+Fault target 69
+Output Indices: 112
+Output Indices: 132
+Output Indices: 144
+Output Indices: 160
+-----------------------------------------------------------------------------------------
+Fault target 70
+Output Indices: 34
+Output Indices: 92
+Output Indices: 104
+Output Indices: 108
+Output Indices: 124
+Output Indices: 136
+Output Indices: 140
+Output Indices: 156
+-----------------------------------------------------------------------------------------
+Fault target 71
+Output Indices: 82
+Output Indices: 98
+Output Indices: 114
+Output Indices: 130
+Output Indices: 134
+Output Indices: 152
+-----------------------------------------------------------------------------------------
+Fault target 72
+Output Indices: 36
+Output Indices: 94
+Output Indices: 106
+Output Indices: 110
+Output Indices: 126
+Output Indices: 138
+Output Indices: 142
+Output Indices: 158
+-----------------------------------------------------------------------------------------
+Fault target 73
+Output Indices: 84
+Output Indices: 100
+Output Indices: 116
+Output Indices: 132
+Output Indices: 136
+Output Indices: 154
+-----------------------------------------------------------------------------------------
+Fault target 74
+Output Indices: 38
+Output Indices: 96
+Output Indices: 108
+Output Indices: 112
+Output Indices: 128
+Output Indices: 140
+Output Indices: 144
+Output Indices: 160
+-----------------------------------------------------------------------------------------
+Fault target 75
+Output Indices: 86
+Output Indices: 102
+Output Indices: 118
+Output Indices: 134
+Output Indices: 138
+Output Indices: 156
+-----------------------------------------------------------------------------------------
+Fault target 76
+Output Indices: 40
+Output Indices: 98
+Output Indices: 110
+Output Indices: 114
+Output Indices: 130
+Output Indices: 142
+Output Indices: 146
+Output Indices: 162
+-----------------------------------------------------------------------------------------
+Fault target 77
+Output Indices: 88
+Output Indices: 104
+Output Indices: 120
+Output Indices: 136
+Output Indices: 140
+Output Indices: 158
+-----------------------------------------------------------------------------------------
+Fault target 78
+Output Indices: 42
+Output Indices: 100
+Output Indices: 112
+Output Indices: 116
+Output Indices: 132
+Output Indices: 144
+Output Indices: 148
+Output Indices: 164
+-----------------------------------------------------------------------------------------
+Fault target 79
+Output Indices: 90
+Output Indices: 106
+Output Indices: 122
+Output Indices: 138
+Output Indices: 142
+Output Indices: 160
+-----------------------------------------------------------------------------------------
+Fault target 80
+Output Indices: 44
+Output Indices: 102
+Output Indices: 114
+Output Indices: 118
+Output Indices: 134
+Output Indices: 146
+Output Indices: 150
+Output Indices: 166
+-----------------------------------------------------------------------------------------
+Fault target 81
+Output Indices: 34
+Output Indices: 66
+Output Indices: 98
+Output Indices: 108
+Output Indices: 128
+Output Indices: 140
+Output Indices: 156
+Output Indices: 162
+-----------------------------------------------------------------------------------------
+Fault target 82
+Output Indices: 46
+Output Indices: 82
+Output Indices: 104
+Output Indices: 116
+Output Indices: 136
+Output Indices: 148
+Output Indices: 168
+-----------------------------------------------------------------------------------------
+Fault target 83
+Output Indices: 36
+Output Indices: 68
+Output Indices: 100
+Output Indices: 110
+Output Indices: 130
+Output Indices: 142
+Output Indices: 158
+Output Indices: 164
+-----------------------------------------------------------------------------------------
+Fault target 84
+Output Indices: 48
+Output Indices: 84
+Output Indices: 106
+Output Indices: 118
+Output Indices: 138
+Output Indices: 150
+Output Indices: 170
+-----------------------------------------------------------------------------------------
+Fault target 85
+Output Indices: 38
+Output Indices: 70
+Output Indices: 102
+Output Indices: 112
+Output Indices: 132
+Output Indices: 144
+Output Indices: 160
+Output Indices: 166
+-----------------------------------------------------------------------------------------
+Fault target 86
+Output Indices: 50
+Output Indices: 86
+Output Indices: 108
+Output Indices: 120
+Output Indices: 140
+Output Indices: 152
+Output Indices: 172
+-----------------------------------------------------------------------------------------
+Fault target 87
+Output Indices: 40
+Output Indices: 72
+Output Indices: 104
+Output Indices: 114
+Output Indices: 134
+Output Indices: 146
+Output Indices: 162
+Output Indices: 168
+-----------------------------------------------------------------------------------------
+Fault target 88
+Output Indices: 52
+Output Indices: 88
+Output Indices: 110
+Output Indices: 122
+Output Indices: 142
+Output Indices: 154
+Output Indices: 174
+-----------------------------------------------------------------------------------------
+Fault target 89
+Output Indices: 42
+Output Indices: 74
+Output Indices: 106
+Output Indices: 116
+Output Indices: 136
+Output Indices: 148
+Output Indices: 164
+Output Indices: 170
+-----------------------------------------------------------------------------------------
+Fault target 90
+Output Indices: 54
+Output Indices: 90
+Output Indices: 112
+Output Indices: 124
+Output Indices: 144
+Output Indices: 156
+Output Indices: 176
+-----------------------------------------------------------------------------------------
+Fault target 91
+Output Indices: 44
+Output Indices: 76
+Output Indices: 108
+Output Indices: 118
+Output Indices: 138
+Output Indices: 150
+Output Indices: 166
+Output Indices: 172
+-----------------------------------------------------------------------------------------
+Fault target 92
+Output Indices: 56
+Output Indices: 92
+Output Indices: 114
+Output Indices: 126
+Output Indices: 146
+Output Indices: 158
+Output Indices: 178
+-----------------------------------------------------------------------------------------
+Fault target 93
+Output Indices: 46
+Output Indices: 78
+Output Indices: 110
+Output Indices: 120
+Output Indices: 140
+Output Indices: 152
+Output Indices: 168
+Output Indices: 174
+-----------------------------------------------------------------------------------------
+Fault target 94
+Output Indices: 0
+Output Indices: 58
+Output Indices: 94
+Output Indices: 116
+Output Indices: 128
+Output Indices: 148
+Output Indices: 160
+Output Indices: 180
+-----------------------------------------------------------------------------------------
+Fault target 95
+Output Indices: 48
+Output Indices: 80
+Output Indices: 112
+Output Indices: 122
+Output Indices: 142
+Output Indices: 154
+Output Indices: 170
+Output Indices: 176
+-----------------------------------------------------------------------------------------
+Fault target 96
+Output Indices: 2
+Output Indices: 34
+Output Indices: 60
+Output Indices: 66
+Output Indices: 92
+Output Indices: 96
+Output Indices: 98
+Output Indices: 118
+Output Indices: 124
+Output Indices: 154
+Output Indices: 162
+Output Indices: 182
+-----------------------------------------------------------------------------------------
+Fault target 97
+Output Indices: 50
+Output Indices: 114
+Output Indices: 160
+-----------------------------------------------------------------------------------------
+Fault target 98
+Output Indices: 4
+Output Indices: 36
+Output Indices: 62
+Output Indices: 68
+Output Indices: 94
+Output Indices: 98
+Output Indices: 100
+Output Indices: 120
+Output Indices: 126
+Output Indices: 156
+Output Indices: 164
+Output Indices: 184
+-----------------------------------------------------------------------------------------
+Fault target 99
+Output Indices: 52
+Output Indices: 116
+Output Indices: 162
+-----------------------------------------------------------------------------------------
+Fault target 100
+Output Indices: 6
+Output Indices: 38
+Output Indices: 64
+Output Indices: 70
+Output Indices: 96
+Output Indices: 100
+Output Indices: 102
+Output Indices: 122
+Output Indices: 128
+Output Indices: 158
+Output Indices: 166
+Output Indices: 186
+-----------------------------------------------------------------------------------------
+Fault target 101
+Output Indices: 54
+Output Indices: 118
+Output Indices: 164
+-----------------------------------------------------------------------------------------
+Fault target 102
+Output Indices: 8
+Output Indices: 40
+Output Indices: 66
+Output Indices: 72
+Output Indices: 98
+Output Indices: 102
+Output Indices: 104
+Output Indices: 124
+Output Indices: 130
+Output Indices: 160
+Output Indices: 168
+Output Indices: 188
+-----------------------------------------------------------------------------------------
+Fault target 103
+Output Indices: 56
+Output Indices: 120
+Output Indices: 166
+-----------------------------------------------------------------------------------------
+Fault target 104
+Output Indices: 10
+Output Indices: 42
+Output Indices: 68
+Output Indices: 74
+Output Indices: 100
+Output Indices: 104
+Output Indices: 106
+Output Indices: 126
+Output Indices: 132
+Output Indices: 162
+Output Indices: 170
+Output Indices: 190
+-----------------------------------------------------------------------------------------
+Fault target 105
+Output Indices: 58
+Output Indices: 122
+Output Indices: 168
+-----------------------------------------------------------------------------------------
+Fault target 106
+Output Indices: 12
+Output Indices: 44
+Output Indices: 70
+Output Indices: 76
+Output Indices: 102
+Output Indices: 106
+Output Indices: 108
+Output Indices: 128
+Output Indices: 134
+Output Indices: 164
+Output Indices: 172
+Output Indices: 192
+-----------------------------------------------------------------------------------------
+Fault target 107
+Output Indices: 60
+Output Indices: 124
+Output Indices: 170
+-----------------------------------------------------------------------------------------
+Fault target 108
+Output Indices: 14
+Output Indices: 46
+Output Indices: 72
+Output Indices: 78
+Output Indices: 104
+Output Indices: 108
+Output Indices: 110
+Output Indices: 130
+Output Indices: 136
+Output Indices: 166
+Output Indices: 174
+Output Indices: 194
+-----------------------------------------------------------------------------------------
+Fault target 109
+Output Indices: 62
+Output Indices: 126
+Output Indices: 172
+-----------------------------------------------------------------------------------------
+Fault target 110
+Output Indices: 16
+Output Indices: 48
+Output Indices: 74
+Output Indices: 80
+Output Indices: 106
+Output Indices: 110
+Output Indices: 112
+Output Indices: 132
+Output Indices: 138
+Output Indices: 168
+Output Indices: 176
+Output Indices: 196
+-----------------------------------------------------------------------------------------
+Fault target 111
+Output Indices: 64
+Output Indices: 128
+Output Indices: 174
+-----------------------------------------------------------------------------------------
+Fault target 112
+Output Indices: 18
+Output Indices: 50
+Output Indices: 76
+Output Indices: 82
+Output Indices: 108
+Output Indices: 112
+Output Indices: 114
+Output Indices: 134
+Output Indices: 140
+Output Indices: 170
+Output Indices: 178
+Output Indices: 198
+-----------------------------------------------------------------------------------------
+Fault target 113
+Output Indices: 66
+Output Indices: 130
+Output Indices: 176
+-----------------------------------------------------------------------------------------
+Fault target 114
+Output Indices: 20
+Output Indices: 52
+Output Indices: 78
+Output Indices: 84
+Output Indices: 110
+Output Indices: 114
+Output Indices: 116
+Output Indices: 136
+Output Indices: 142
+Output Indices: 172
+Output Indices: 180
+-----------------------------------------------------------------------------------------
+Fault target 115
+Output Indices: 68
+Output Indices: 132
+Output Indices: 178
+-----------------------------------------------------------------------------------------
+Fault target 116
+Output Indices: 22
+Output Indices: 54
+Output Indices: 80
+Output Indices: 86
+Output Indices: 112
+Output Indices: 116
+Output Indices: 118
+Output Indices: 138
+Output Indices: 144
+Output Indices: 174
+Output Indices: 182
+-----------------------------------------------------------------------------------------
+Fault target 117
+Output Indices: 70
+Output Indices: 134
+Output Indices: 180
+-----------------------------------------------------------------------------------------
+Fault target 118
+Output Indices: 24
+Output Indices: 56
+Output Indices: 82
+Output Indices: 88
+Output Indices: 114
+Output Indices: 118
+Output Indices: 120
+Output Indices: 140
+Output Indices: 146
+Output Indices: 176
+Output Indices: 184
+-----------------------------------------------------------------------------------------
+Fault target 119
+Output Indices: 72
+Output Indices: 136
+Output Indices: 182
+-----------------------------------------------------------------------------------------
+Fault target 120
+Output Indices: 26
+Output Indices: 58
+Output Indices: 84
+Output Indices: 90
+Output Indices: 116
+Output Indices: 120
+Output Indices: 122
+Output Indices: 142
+Output Indices: 148
+Output Indices: 178
+Output Indices: 186
+-----------------------------------------------------------------------------------------
+Fault target 121
+Output Indices: 74
+Output Indices: 138
+Output Indices: 184
+-----------------------------------------------------------------------------------------
+Fault target 122
+Output Indices: 28
+Output Indices: 60
+Output Indices: 86
+Output Indices: 92
+Output Indices: 118
+Output Indices: 122
+Output Indices: 124
+Output Indices: 144
+Output Indices: 150
+Output Indices: 180
+Output Indices: 188
+-----------------------------------------------------------------------------------------
+Fault target 123
+Output Indices: 76
+Output Indices: 140
+Output Indices: 186
+-----------------------------------------------------------------------------------------
+Fault target 124
+Output Indices: 30
+Output Indices: 62
+Output Indices: 88
+Output Indices: 94
+Output Indices: 120
+Output Indices: 124
+Output Indices: 126
+Output Indices: 146
+Output Indices: 152
+Output Indices: 182
+Output Indices: 190
+-----------------------------------------------------------------------------------------
+Fault target 125
+Output Indices: 78
+Output Indices: 142
+Output Indices: 188
+-----------------------------------------------------------------------------------------
+Fault target 126
+Output Indices: 32
+Output Indices: 64
+Output Indices: 90
+Output Indices: 96
+Output Indices: 122
+Output Indices: 126
+Output Indices: 128
+Output Indices: 148
+Output Indices: 154
+Output Indices: 184
+Output Indices: 192
+-----------------------------------------------------------------------------------------
+Fault target 127
+Output Indices: 80
+Output Indices: 144
+Output Indices: 190
+-----------------------------------------------------------------------------------------
