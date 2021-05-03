@@ -6,8 +6,8 @@ The experiments were done using [SageMath](https://www.sagemath.org/).
 
 ### Codes
 
-1. `Generating ANF for Grain-128AEAD`
-    * Generates the `Algebraic Normal Form` of Grain-128AEAD cipher and determine the linear terms in the equations by differentiating the equations with respect to LFSR registers 
+1. `ANF generation and diff with respect to S` and `ANF generation and diff with respect to B`
+    * Generates the `Algebraic Normal Form (ANF)` of Grain-128AEAD cipher and determine the linear terms in the equations by differentiating the equations with respect to LFSR registers 
   
 2. `Verification of attack (Table 2)`
     * This code verifies whether the injected fault at one keystream manages to recover the corresponding register.
