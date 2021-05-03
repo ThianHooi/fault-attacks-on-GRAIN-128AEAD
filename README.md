@@ -37,5 +37,11 @@ The experiments were done using [SageMath](https://www.sagemath.org/).
 10. `Average no. of required faults S_byte (moderate control)`
     * This code calculates the average numbers of faults to recover the registers in each LFSR bytes in moderate control
 
+11. `No Control`
+    * This code consists of the implementation of the `DFA` in no control model
+
+12. `Full_Array_of_Output_Differential=1`
+    * This contains an 2D array that has the full data for number of times for output indices till 200 = 1 for each LFSR register 
+
 ### Results
 The results and excel files are stored in `results` folder. The folder consists of a couple of `vb` files that are used to highlight the data obtained for better visualisation of the data.
